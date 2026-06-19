@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Phillip - Senior Data Engineer
+# 👋 Hi, I’m Calmlynx - Senior Fullstack Engineer
 
 I’m a Senior Data Engineer with over 10 years of experience, specializing in building scalable data systems, optimizing ETL pipelines, and providing real-time data processing solutions. Throughout my career, I’ve helped businesses unlock the value of their data to drive informed decisions and improve operations.
 
@@ -53,10 +53,5 @@ Currently working on improving my frontend skills with React and JavaScript. Foc
 
 I’m committed to creating data-driven solutions that solve technical challenges while aligning with business objectives. My focus is on building systems that scale efficiently, providing actionable insights that enable teams to make informed decisions. I’m also a strong believer in continuous learning, always looking for ways to improve my technical expertise and deliver high-quality results in a collaborative environment.
 
-## 📫 Contact
-- **Email:** phillip10291@outlook.com  
-- **GitHub:** https://github.com/calmlynx/ 
-- **Location:** Sacramento, CA, USA
----
 
 ### ⭐ If you like my work, feel free to star my repositories!
