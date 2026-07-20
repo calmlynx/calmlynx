@@ -1,57 +1,67 @@
-# 👋 Hi, I’m Calmlynx - Senior Fullstack Engineer
+# Hi, I’m Calmlynx 👋
 
-I’m a Senior Data Engineer with over 10 years of experience, specializing in building scalable data systems, optimizing ETL pipelines, and providing real-time data processing solutions. Throughout my career, I’ve helped businesses unlock the value of their data to drive informed decisions and improve operations.
+## Senior Software Engineer
 
-Recently, I've been expanding my skillset beyond data engineering. I'm exploring Spring Boot for backend development and improving my frontend skills with React. However, my core expertise remains in data engineering, particularly working with cloud platforms, big data technologies, and real-time systems.
+I’m a software engineer with over 10 years of experience building, improving, and supporting enterprise applications, business platforms, and production systems.
+
+My experience covers the full software development lifecycle, including requirements analysis, solution design, frontend and backend development, API integration, database development, testing, deployment, troubleshooting, and production support.
+
+I’m not tied to a single language or framework. I focus on understanding the problem, selecting appropriate technologies, and delivering software that is reliable, maintainable, and useful.
+
+## What I Work On
+
+- Full-stack web applications
+- Backend services and REST APIs
+- Enterprise and business platforms
+- Database-driven applications
+- Authentication and authorization
+- System integrations and automation
+- Cloud deployment and CI/CD workflows
+- Application performance and reliability
+- Production troubleshooting and technical support
+
+## Engineering Approach
+
+I believe good software should be:
+
+- Clear and maintainable
+- Reliable in production
+- Designed around real user needs
+- Easy for teams to understand and extend
+- Supported by appropriate testing and documentation
+- Continuously improved through monitoring and feedback
+
+I enjoy working across application layers and collaborating with engineers, product teams, QA, operations, and business stakeholders to turn requirements into dependable software solutions.
+
+## Technologies
+
+**Languages:** Java, Python, JavaScript, TypeScript, C#  
+**Frontend:** React, Next.js  
+**Backend:** Spring Boot, Node.js, .NET, Django, Flask, FastAPI  
+**Databases:** PostgreSQL, MySQL, Oracle, MongoDB  
+**Cloud & Delivery:** AWS, Docker, Kubernetes, GitHub Actions, GitLab CI/CD  
+**Engineering:** REST APIs, GraphQL, system integration, testing, debugging, monitoring, and Agile delivery
+
+Technology continues to evolve, so I prioritize strong engineering fundamentals, adaptability, and continuous learning over dependence on any single tool.
+
+## Current Projects
+
+My repositories include practical projects involving:
+
+- Backend APIs and business services
+- Secure digital workflows
+- Authentication and user management
+- Booking and e-commerce applications
+- AI-assisted application features
+- Full-stack web development
+- Cloud deployment and automation
+
+## Professional Philosophy
+
+Software engineering is not only about writing code. It is about understanding the problem, making sensible technical decisions, communicating clearly, and delivering systems that remain dependable after release.
+
+I’m always interested in improving existing systems, exploring new ideas, and building useful software with people who value thoughtful engineering.
 
 ---
 
-## 🔧 Tech Stack
-- Languages: Python, SQL, Java, Scala, Bash, JavaScript
-- Backend Development: Spring Boot, Python, Django
-- Frontend Development: React (focusing on user-facing applications)
-- Big Data: Apache Spark, PySpark, Hadoop, Hive
-- Data Engineering: Airflow, dbt, Kafka, Luigi, ETL/ELT
-- Cloud Platforms: AWS, GCP, Azure
-- Data Warehouses: Snowflake, BigQuery, Redshift
-- Databases: MySQL, Oracle, PostgreSQL, SQL Server, MongoDB
-- DevOps: Docker, Kubernetes, Terraform
-- BI & Reporting: Tableau, Power BI, Looker
-- Version Control: GitHub, GitLab
-
----
-
-## 🏦 Growth Focus
-
-Over the past 12 months, I’ve focused on full-stack development, especially Spring Boot for backend architecture and React for frontend development. In addition, I've deepened my knowledge in cloud-native data systems and machine learning, aiming to integrate AI-powered solutions into data workflows.
-
----
-
-## 📂 Featured Projects
-
-Recent Projects
-
-🚨 Real-Time Data Analytics Pipeline
-
-Developed a real-time data ingestion pipeline using Kafka and Apache Spark to stream large volumes of data into Snowflake for instant analytics. This system was optimized for low-latency data processing and high throughput, providing real-time business insights across multiple departments.
-
-🛠️ Automated Data Pipelines
-
-Built an automated ETL pipeline using Airflow and dbt to process large datasets across multiple sources, reducing data processing time by 50%. Integrated the pipeline with Snowflake for efficient storage and quick query performance.
-
-💻 Spring Boot Backend Services
-
-Designed and implemented backend services using Spring Boot to provide reliable, scalable APIs. Integrated services with multiple data systems to ensure seamless data flow from backend to frontend.
-
-🎨 Frontend Development with React
-
-Currently working on improving my frontend skills with React and JavaScript. Focused on building responsive, user-friendly interfaces while integrating with backend services to ensure a cohesive user experience.
-    
----
-
-## 🌐 Professional Philosophy
-
-I’m committed to creating data-driven solutions that solve technical challenges while aligning with business objectives. My focus is on building systems that scale efficiently, providing actionable insights that enable teams to make informed decisions. I’m also a strong believer in continuous learning, always looking for ways to improve my technical expertise and deliver high-quality results in a collaborative environment.
-
-
-### ⭐ If you like my work, feel free to star my repositories!
+⭐ Feel free to explore my repositories and follow my ongoing projects.
